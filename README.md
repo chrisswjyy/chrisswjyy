@@ -1,4 +1,4 @@
-![Header](https://media.tenor.com/mog39cMNWH3AAAAd/mog39cMNWH3.gif)
+![Header](https://media.tenor.com/jmwlbHsV1J0AAAAj/catgifs1-cat.gif)
 
 # About Me
 Hi, I'm **Chris**, a Full-Stack Developer based in Indonesia. I specialize in building scalable backend systems and creating intuitive frontend experiences. With a passion for clean code and modern web technologies, I focus on delivering high-quality solutions that solve real-world problems.
